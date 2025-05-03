@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ArnauMacia
 - 👀 I’m interested in Python, IA, ML and DL
 - 🌱 I’m currently learning in Python, IA, ML and DL
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arnaumacia@gmail.com
 
 <!---
